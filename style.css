@@ -1,0 +1,135 @@
+#logo {
+    background-color: black;
+
+}
+
+#logo img {
+    width: 10%;
+    size: 10%;
+
+}
+
+#banner {
+    background-image: url(assets/img/banner.jpg);
+    text-align: center;
+    padding: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+#banner h1 {
+    color: #25a2c3;
+
+    line-height: 1.5;
+
+}
+
+#banner button {
+    margin: 2rem;
+    background-color: #f04c2f;
+    color: white;
+    border-radius: 7%;
+    padding: 1rem;
+    border: none;
+    font-family: Montserrat;
+    font-weight: bold;
+    width: 8rem;
+
+
+}
+
+#text {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#text h3 {
+    color: #25a2c3;
+    font-size: 1.2rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding-left: 50%;
+    font-weight: bold;
+
+}
+
+#text p {
+
+    font-family: "Open sans", sans-serif;
+    padding-left: 50%;
+}
+
+#bannertwo {
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    background-color: #f04c2f;
+    color: white;
+    height: 200px;
+    padding: 7%
+}
+
+#text img {
+    border-radius: 50%;
+    width: 25%;
+    position: absolute;
+    left: 10%;
+}
+
+.description{
+width: 300px;
+margin: 70px;
+text-align: center;
+display: inline-block;
+border: 1px solid #dee1e3;
+font-family: "Open sans", sans-serif;
+
+}
+
+.description img {
+width: 100%;
+
+
+}
+
+#section {
+    text-align:center
+}
+
+.description h4{
+    color: #25a2c3;
+}
+
+
+
+
+
+
+
+#bannerthree {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    height: 200px;
+    padding: 7%
+    
+}
+
+#bannerthree a{
+    color: white;
+}
